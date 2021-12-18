@@ -1,0 +1,151 @@
+.heade {
+    height: 200px;
+    background-image: url("/images/main-header.jpg");
+    background-size: cover;
+  }
+
+  
+  
+  body {
+    background-color: #eeecec;
+  }
+  
+  main {
+    padding-top: 24px;
+    width: 75%;
+    margin: 40px auto;
+    background-color: #f0ecec;
+    padding: 30px;
+    border: 3px solid white;
+    border-radius: 10px;
+  }
+  
+  
+  :root h1{
+    
+    font-size: 62.5px}
+  
+  h1 {
+    
+    font-family: 'Monoton', cursive ;
+    text-shadow: 3px 3px 4px blue;
+
+    background-color: #f58ea0;
+
+    color: #e2dfdf;
+
+    padding: 15px;
+
+    text-align: center;
+
+    margin-top: 0px;
+    
+    margin-bottom: 0px
+  }
+  i {
+    color: rgb(124, 214, 226);
+  }
+  
+  main h2 {
+    color: #ee0eee;
+    background-color: #dfdddd;
+    border-radius: 10px;
+    padding: 10px;
+  }
+  
+  h2  p {
+    padding:5px;}
+  
+  li:hover {
+    background-color: #f18799;
+    padding: 8px 2px;
+  }
+  
+  .topic {
+    background-color: #eefa4a;
+  }
+  
+  a img {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+  
+   article {
+    margin: 25px ;
+  }
+  
+  #lollipop {
+    float: left;
+    margin-right: 20px;
+    border: 5px solid #e7f14f;
+  }
+  
+  #candy-floss {
+    float: right;
+    margin-left: 20px;
+    border: 5px solid #1bcfe7;
+  }
+  
+  #jellybeans {
+    float: left;
+    margin-right: 20px;
+    border: 5px solid #f863ad;
+  }
+  
+  .section-Cabdy h3 {
+    margin-bottom: 15px;
+    text-align: center;
+  }
+  
+  .section-Cabdy ul {
+    list-style: none;
+    padding: 10px;
+    background-color: #f593a3;
+  }
+  
+  .Candy :active {
+    background-color: #e062a1;
+    color: #fdf1f1;
+  }
+  
+  h3 + ul:hover {
+    background-color: #f4ff58;
+  }
+  
+  footer h3 {
+    text-align: center;
+    padding: 25px;
+  }
+  
+  footer h3 contact a:visited {
+    color: rgb(60, 220, 241);
+  }
+  
+  
+  
+  .contact-img_continer {
+    height: 200px;
+    background-image: url("images/contact-header.jpeg");
+    background-size: cover;
+  }
+  
+  ul:hover {
+    background-color: #f1889a;
+  }
+  
+  #main a:visited {
+    color: #f10cc0;
+  }
+  
+  #contact h2 {
+    margin: 15px;
+  }
+  
+  #contact ul {
+    margin: 25px 20px;
+    padding: 15px;
+    background-color: #28daf1;
+    list-style: none;
+  }
